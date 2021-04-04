@@ -2,6 +2,10 @@
 
 ### 每天刷一道或者两道
 
+
+#### 0.Tree
+- the origin of code [2021/4/4 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/java-zi-shu-pan-duan-by-user5713q-sz3o/)
+
 #### 1. 设计
 > 这些设计题有很多是计算机原本的基础问题
 例如 lru lfu 之类的
@@ -41,6 +45,9 @@
 
 #### 8.单调栈
   -[2021/3/24 单调栈](./132-pattern.md)
+
+#### 9.贪心
+  -[2021/4/4 兔子的贪心颜色](./兔子的数量.md)
 
 
 #### 专题
