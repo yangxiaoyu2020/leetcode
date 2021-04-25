@@ -6,6 +6,7 @@
 
 #### 0.Tree
 - the origin of code [2021/4/4 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/java-zi-shu-pan-duan-by-user5713q-sz3o/)
+- [树的中序遍历的应用](./tree/897.md)
 
 #### 1. 设计
 > 这些设计题有很多是计算机原本的基础问题
@@ -59,7 +60,7 @@
 
 #### 10.二分查找
   -[2021/4/20]
-  
+
 #### 11.前缀和
   -[2021/4/22  二维的前缀和 应用](./前缀和相关/363.md)
 
