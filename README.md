@@ -60,7 +60,8 @@
 
 
 #### 7.字符串
-- [2021/3/22 kmp](./214最短回文串.md)
+- [2021/3/22 kmp](./strings/214最短回文串.md)
+- [2021/7/25 there will be a typhoon landing in shanghai. 1737replacing-hidden-digits ](./strings/1736.md)
 
 
 #### 8.单调栈
@@ -115,6 +116,7 @@
 #### 18 sliding-window
   -[2021/7/23 滑动窗口的 应用](./sliding-window/1838-frequency-of-the-most-frequent-element.md)
 
+####
 
 
 #### 专题
